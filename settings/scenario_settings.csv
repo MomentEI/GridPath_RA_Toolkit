@@ -1,0 +1,10 @@
+scenario name,ToyTest1
+study year,2026
+weather mode,MonteCarlo
+optimization window,weekly
+iterations,10
+parameters file,parameters_toy.csv
+aggregations file,aggregations_toy.csv
+timeseries file,timeseries_toy.csv
+variable types file,variable_types.csv
+common files,toy_case

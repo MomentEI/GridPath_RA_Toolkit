@@ -1,0 +1,6 @@
+type,filename,print mode,header,header,header,header,header,header,value,value,value,value,value,value
+availability,project_availability_exogenous,append file,project,timepoint,availability_derate,hyb_stor_cap_availability_derate,NA,NA,a.name,timepoint,data[t][0],""".""",NA,NA
+variable generator,variable_generator_profiles,append file,project,timepoint,cap_factor,NA,NA,NA,a.name,timepoint,data[t][0],NA,NA,NA
+loads,load_mw,append file,load_zone,timepoint,load_mw,NA,NA,NA,a.name,timepoint,data[t][0],NA,NA,NA
+hydro,hydro_conventional_horizon_params,append file,project,horizon,average_power_fraction,min_power_fraction,max_power_fraction,NA,a.name,week,data[t][0],data[t][1],data[t][2],NA
+hybrid_storage,project_availability_exogenous,append file,project,timepoint,availability_derate,hyb_stor_cap_availability_derate,NA,NA,a.name,timepoint,""".""",data[t][0],NA,NA

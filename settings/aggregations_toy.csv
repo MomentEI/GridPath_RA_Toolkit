@@ -1,0 +1,8 @@
+aggregation,temporal
+Batteries,timepoint
+Gas,timepoint
+Hybrid,timepoint
+Hydro,week
+Solar,timepoint
+Wind,timepoint
+zone1,timepoint

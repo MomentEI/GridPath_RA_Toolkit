@@ -1,0 +1,4 @@
+subscenario name,ToyTest1_NoGas
+base scenario,ToyTest1
+aggregations file,aggregations_nogas.csv
+common files,no_gas

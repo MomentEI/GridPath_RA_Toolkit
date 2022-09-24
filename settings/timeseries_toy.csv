@@ -1,0 +1,6 @@
+name,temporal,statistical model type
+load,timepoint,cmb
+wind,timepoint,met
+solar,timepoint,met
+thermal,timepoint,met
+hydro,week,hyd

@@ -1,0 +1,11 @@
+Resource,Aggregation,Variable Type,Scalar,Timeseries,Units,Unit FOR,Unit MTTR,Unit FO Model,Gen Tie FOR,Gen Tie MTTR,Gen Tie FO Model
+zone1,zone1,loads,1,load,NA,NA,NA,NA,NA,NA,NA
+GasCC1,Gas,availability,300,thermal,1,0.038,24,MonteCarlo,NA,NA,NA
+GasCC2,Gas,availability,300,thermal,1,0.038,24,MonteCarlo,NA,NA,NA
+GasCC3,Gas,availability,300,thermal,1,0.038,24,MonteCarlo,NA,NA,NA
+GasCT1,Gas,availability,100,thermal,1,0.0229,50,MonteCarlo,NA,NA,NA
+Batteries,Batteries,availability,1000,NA,1,0.035,36,Derate,NA,NA,NA
+Hybrid_Solar,Hybrid,variable generator,1500,solar,NA,NA,NA,NA,NA,NA,NA
+Hydro,Hydro,hydro,1000,hydro,NA,NA,NA,NA,NA,NA,NA
+Solar,Solar,variable generator,1000,solar,NA,NA,NA,NA,NA,NA,NA
+Wind,Wind,variable generator,1000,wind,NA,NA,NA,NA,NA,NA,NA
