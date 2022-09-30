@@ -5,7 +5,7 @@ Companion code for running GridPath for resource adequacy (RA) applications.
 
 ### 1. How to install GridPath:
 The GridPath RA Toolkit is compatible with v0.14.1 of GridPath. You can download GridPath v0.14.1 here: 
-[https://github.com/blue-marble/gridpath/releases/tag/v0.14.1](https://github.com/blue-marble/gridpath/releases/tag/v0.14.1)
+[https://github.com/blue-marble/gridpath/releases/tag/v0.14.1](https://github.com/blue-marble/gridpath/releases/tag/v0.14.1){:target="\_blank"}
 You can find installation instructions for GridPath including how to download and install the Cbc solver here:
 [https://gridpath.readthedocs.io/en/latest/installation.html](https://gridpath.readthedocs.io/en/latest/installation.html)
 
