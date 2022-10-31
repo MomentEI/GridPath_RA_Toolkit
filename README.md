@@ -18,7 +18,7 @@ This includes the code that you’ll need to run and post-process RA cases in Gr
 ### 3. How to get the GridPath RA Toolkit Western US dataset:
 You can download the full dataset used in the Western US RA case study by navigating to [gridlab.org/GridPathRAToolkit](gridlab.org/GridPathRAToolkit) and clicking on the "data" tab. The input files are contained in MonteCarlo_Inputs.zip.
 
-Note that running the full Western US scenarios requires substantial computing resources. A single run can take several days to complete on a machine with 32 CPUs and 128 MW of memory as well as require several hundred GB of disk space for the inputs and results data.
+Note that running the full Western US scenarios requires substantial computing resources. A single run can take several days to complete on a machine with 32 CPUs and 128 MB of memory as well as require several hundred GB of disk space for the inputs and results data.
 
 ### 4. How to run the toy scenario
 - Open an Anaconda Prompt
